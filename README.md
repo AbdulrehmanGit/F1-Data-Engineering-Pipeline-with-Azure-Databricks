@@ -1,5 +1,5 @@
 # F1-Data-Engineering-Pipeline-with-Azure-Databricks
-![F1-Data-Engineering-Pipeline-with-Azure-Databricks](https://github.com/user-attachments/assets/0832a5cd-505d-4c85-adc8-366badf57d8a)
+![F1-Data-Engineering-Pipeline-with-Azure-Databricks (1)](https://github.com/user-attachments/assets/bb92b7d5-9196-477e-9f07-4ea21642bfae)
 
 # Introduction
 The F1 Data Engineering Pipeline project showcases a sophisticated approach to processing and analyzing historical F1 race data. The primary goal of this project is to convert raw data into actionable insights, catering to the needs of data scientists, analysts, and machine learning engineers. Leveraging Databricks and the Azure ecosystem, the project orchestrates data transformations, secure storage, and automated workflows within a cloud-first architecture.
